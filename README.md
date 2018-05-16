@@ -1,4 +1,4 @@
-# 📚 Open Courses Manifesto
+# Open Courses Manifesto
 
 
 ## 1. 🔄 Sharing Knowledge
