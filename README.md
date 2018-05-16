@@ -1,7 +1,7 @@
 # Open Courses Manifesto
 
 
-## 1. Sharing Knowledge
+## 1. Sharing Knowledge
 The project aims at sharing knowledge by distributing the material as open source, under a MIT licence. Before sharing any content make sure you have the right to do it.
 ## 2. Open to anyone
 The project will be maintained by the IEEE-HKN members. However, the content must be open to everyone with an internet connection.
